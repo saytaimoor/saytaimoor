@@ -14,6 +14,8 @@ Most of my work is in Laravel, React, Vue.js, MySQL, PostgreSQL, Node.js and Doc
 
 I built these two platforms on my own, and both are live. Each demo has a login for every role, so you can try the product as any kind of user.
 
+The source code of both is private. If you would like to see it, contact me and I will invite you to the repository.
+
 - **[TrueAuto](https://trueauto.wasmer.app/)** is a used-car marketplace with four roles. Every listing gets a fair-price label, and a fraud score holds risky ads for manual review. It has 860+ automated tests, and the PHP tests cover about 90% of the code.
 - **[Sanad](https://sanad.wasmer.app/)** is a training and certification platform. Companies sell courses and run timed exams, and they issue certificates that anyone can verify by QR code. It has seven roles and works in English and Arabic.
 
